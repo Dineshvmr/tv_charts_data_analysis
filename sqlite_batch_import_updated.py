@@ -10,7 +10,7 @@ dbname = "sensibull_staging"
 user = "sensibull_staging"
 password = getpass("Enter database password: ")
 
-dest_db = '/Users/dinesh/Documents/SQLite/test'
+dest_db = '/Users/dinesh/Documents/SQLite/SQLite'
 batch_size = 5
 progress_file = 'batch_progress.json'
 
