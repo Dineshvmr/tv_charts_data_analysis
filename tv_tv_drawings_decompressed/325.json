@@ -1,33 +1,35 @@
 {
   "currencyId": null,
-  "id": "UsuV2l",
+  "id": "Euv432",
   "ownerSource": "_seriesId",
   "state": {
-    "id": "UsuV2l",
+    "id": "Euv432",
     "isSelectionEnabled": true,
-    "linkKey": "cnjOU9yL3rKS",
+    "linkKey": "GAC1UZDarBix",
     "ownerSource": "_seriesId",
     "points": [
       {
         "interval": "1D",
         "offset": 0,
-        "price": 25131.38792053364,
-        "time_t": 1738640700
+        "price": 25971.272126271928,
+        "time_t": 1748317500
       },
       {
         "interval": "1D",
         "offset": 0,
-        "price": 25722.007663863107,
-        "time_t": 1747626300
+        "price": 25684.900179655186,
+        "time_t": 1750650300
       }
     ],
     "state": {
-      "alwaysShowStats": false,
+      "backgroundColor": "rgba(156, 39, 176, 0.2)",
       "bold": false,
+      "color": "#9c27b0",
       "currencyId": null,
       "extendLeft": false,
       "extendRight": false,
-      "fontsize": 14,
+      "fillBackground": true,
+      "fontSize": 14,
       "frozen": false,
       "horzLabelsAlign": "center",
       "interval": "1D",
@@ -54,35 +56,29 @@
         "weeksTo": 52
       },
       "italic": false,
-      "leftEnd": 0,
-      "linecolor": "#2962FF",
       "linestyle": 0,
       "linewidth": 2,
-      "rightEnd": 0,
-      "showAngle": false,
-      "showBarsRange": false,
-      "showDateTimeRange": false,
-      "showDistance": false,
+      "middleLine": {
+        "lineColor": "#9c27b0",
+        "lineStyle": 2,
+        "lineWidth": 1,
+        "showLine": false
+      },
       "showLabel": false,
-      "showMiddlePoint": false,
-      "showPercentPriceRange": false,
-      "showPipsPriceRange": false,
-      "showPriceLabels": false,
-      "showPriceRange": false,
-      "statsPosition": 2,
       "symbol": "NIFTY",
       "symbolStateVersion": 2,
       "text": "",
-      "textcolor": "#2962FF",
+      "textColor": "#9c27b0",
       "title": "",
+      "transparency": 50,
       "unitId": null,
-      "vertLabelsAlign": "bottom",
+      "vertLabelsAlign": "middle",
       "visible": true,
       "zOrderVersion": 2
     },
-    "type": "LineToolTrendLine",
+    "type": "LineToolRectangle",
     "userEditEnabled": true,
-    "zorder": -10079
+    "zorder": -20
   },
   "symbol": "NIFTY",
   "unitId": null

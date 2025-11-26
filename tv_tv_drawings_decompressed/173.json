@@ -1,0 +1,69 @@
+{
+  "currencyId": null,
+  "id": "RMV9z8",
+  "ownerSource": "_seriesId",
+  "state": {
+    "id": "RMV9z8",
+    "isSelectionEnabled": true,
+    "linkKey": "h7Wf0bQB0XCZ",
+    "ownerSource": "_seriesId",
+    "points": [
+      {
+        "interval": "1D",
+        "offset": 0,
+        "price": 24342.137960772314,
+        "time_t": 1751514300
+      }
+    ],
+    "state": {
+      "bold": false,
+      "currencyId": null,
+      "fontsize": 12,
+      "frozen": false,
+      "horzLabelsAlign": "center",
+      "interval": "1D",
+      "intervalsVisibilities": {
+        "days": true,
+        "daysFrom": 1,
+        "daysTo": 366,
+        "hours": true,
+        "hoursFrom": 1,
+        "hoursTo": 24,
+        "minutes": true,
+        "minutesFrom": 1,
+        "minutesTo": 59,
+        "months": true,
+        "monthsFrom": 1,
+        "monthsTo": 12,
+        "ranges": true,
+        "seconds": true,
+        "secondsFrom": 1,
+        "secondsTo": 59,
+        "ticks": true,
+        "weeks": true,
+        "weeksFrom": 1,
+        "weeksTo": 52
+      },
+      "italic": false,
+      "linecolor": "#2962FF",
+      "linestyle": 0,
+      "linewidth": 2,
+      "showLabel": false,
+      "showPrice": true,
+      "symbol": "NIFTY",
+      "symbolStateVersion": 2,
+      "text": "",
+      "textcolor": "#2962FF",
+      "title": "",
+      "unitId": null,
+      "vertLabelsAlign": "top",
+      "visible": true,
+      "zOrderVersion": 2
+    },
+    "type": "LineToolHorzRay",
+    "userEditEnabled": true,
+    "zorder": -5000
+  },
+  "symbol": "NIFTY",
+  "unitId": null
+}

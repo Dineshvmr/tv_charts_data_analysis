@@ -1,0 +1,85 @@
+{
+  "currencyId": null,
+  "id": "NfNpxL",
+  "ownerSource": "_seriesId",
+  "state": {
+    "id": "NfNpxL",
+    "isSelectionEnabled": true,
+    "linkKey": "RxPGTXIg0i0V",
+    "ownerSource": "_seriesId",
+    "points": [
+      {
+        "interval": "1D",
+        "offset": 0,
+        "price": 25467.81625517634,
+        "time_t": 1757562300
+      },
+      {
+        "interval": "1D",
+        "offset": 1,
+        "price": 24545.031944053433,
+        "time_t": 1760586300
+      }
+    ],
+    "state": {
+      "backgroundColor": "rgba(156, 39, 176, 0.2205)",
+      "bold": false,
+      "color": "#9c27b0",
+      "currencyId": null,
+      "extendLeft": true,
+      "extendRight": true,
+      "fillBackground": true,
+      "fontSize": 14,
+      "frozen": false,
+      "horzLabelsAlign": "center",
+      "interval": "1D",
+      "intervalsVisibilities": {
+        "days": true,
+        "daysFrom": 1,
+        "daysTo": 366,
+        "hours": true,
+        "hoursFrom": 1,
+        "hoursTo": 24,
+        "minutes": true,
+        "minutesFrom": 1,
+        "minutesTo": 59,
+        "months": true,
+        "monthsFrom": 1,
+        "monthsTo": 12,
+        "ranges": true,
+        "seconds": true,
+        "secondsFrom": 1,
+        "secondsTo": 59,
+        "ticks": true,
+        "weeks": true,
+        "weeksFrom": 1,
+        "weeksTo": 52
+      },
+      "italic": false,
+      "linestyle": 0,
+      "linewidth": 2,
+      "middleLine": {
+        "lineColor": "#9c27b0",
+        "lineStyle": 2,
+        "lineWidth": 1,
+        "showLine": true
+      },
+      "showLabel": true,
+      "symbol": "NIFTY",
+      "symbolStateVersion": 2,
+      "text": "Test rectangle",
+      "textColor": "rgba(123, 31, 162, 1)",
+      "title": "",
+      "transparency": 50,
+      "unitId": null,
+      "vertLabelsAlign": "middle",
+      "visible": true,
+      "zOrderVersion": 2
+    },
+    "type": "LineToolRectangle",
+    "userEditEnabled": true,
+    "zorder": -1250
+  },
+  "symbol": "NIFTY",
+  "unitId": null
+}

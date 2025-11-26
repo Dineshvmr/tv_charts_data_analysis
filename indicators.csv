@@ -1,0 +1,100 @@
+"name","count","unique_users"
+Moving Average Exponential,78867,26258
+Relative Strength Index,36279,26264
+Moving Average,19970,8182
+SuperTrend,19547,12232
+Bollinger Bands,18873,12888
+MACD,17819,12832
+VWAP,15732,11397
+EMA Cross,9077,6086
+Stochastic,4472,3000
+Directional Movement Index,4198,2855
+Stochastic RSI,3420,2504
+Smoothed Moving Average,2868,1381
+Average Directional Index,2835,2201
+Moving Average Multiple,2365,1658
+Moving Average Triple,2068,1557
+Parabolic SAR,1947,1421
+Ichimoku Cloud,1900,1274
+Moving Average Double,1505,1062
+Hull MA,1425,693
+Williams Fractals,1168,804
+Double Exponential Moving Average,1126,617
+Moving Average Weighted,1115,515
+VWMA,1108,788
+MA Cross,1059,722
+MA with EMA Cross,978,746
+Historical Volatility,975,722
+Average True Range,946,735
+Commodity Channel Index,915,625
+Willams %R,874,622
+Keltner Channels,777,500
+Donchian Channels,723,472
+Arnaud Legoux Moving Average,692,395
+Moving Average Channel,658,425
+Triple EMA,589,288
+Moving Average Adaptive,586,421
+Awesome Oscillator,474,339
+On Balance Volume,443,335
+Williams Alligator,440,350
+Momentum,389,277
+True Strength Index,380,268
+Fisher Transform,376,271
+Bollinger Bands %B,370,279
+Know Sure Thing,332,256
+Average Price,326,228
+Money Flow Index,311,232
+Least Squares Moving Average,301,169
+Vortex Indicator,290,201
+Price Volume Trend,250,203
+Volatility Index,245,180
+Accelerator Oscillator,241,184
+Price Channel,240,157
+SMI Ergodic Indicator/Oscillator,236,164
+McGinley Dynamic,229,152
+Chop Zone,215,147
+Chande Kroll Stop,201,132
+Net Volume,181,151
+Linear Regression Curve,181,127
+Connors RSI,177,142
+Accumulation/Distribution,177,143
+Rate Of Change,171,137
+Advance/Decline,171,139
+Trend Strength Index,170,126
+Detrended Price Oscillator,169,111
+Volume Oscillator,162,122
+Envelopes,155,102
+Aroon,136,108
+Bollinger Bands Width,128,110
+Moving Average Hamming,126,88
+Accumulative Swing Index,122,95
+Choppiness Index,117,85
+Relative Volatility Index,111,90
+Chande Momentum Oscillator,106,77
+Elders Force Index,98,70
+Standard Deviation,80,59
+Standard Error Bands,78,55
+Balance of Power,65,58
+Chaikin Money Flow,62,55
+Volatility O-H-L-C,56,49
+Relative Vigor Index,55,41
+Chaikin Volatility,49,39
+TRIX,48,35
+Median Price,46,31
+Volatility Zero Trend Close-to-Close,42,38
+Ultimate Oscillator,38,30
+Coppock Curve,36,31
+Linear Regression Slope,35,31
+Volatility Close-to-Close,34,32
+Typical Price,27,25
+Price Oscillator,27,23
+Majority Rule,26,17
+Ease of Movement,24,20
+Klinger Oscillator,23,18
+Chaikin Oscillator,19,16
+Mass Index,17,14
+Standard Error,12,11
+Correlation Coeff,9,7
+Correlation - Log,7,4
+Rank Correlation Index,3,3
+Prev Day OHLC,1,1

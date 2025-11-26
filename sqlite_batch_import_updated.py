@@ -6,7 +6,7 @@ from getpass import getpass
 
 host = "stagingdb.int.sensibull.com"
 port = "5432"
-dbname = "sensibull_staging"
+dbname = "sensibull_stage3"
 user = "sensibull_staging"
 password = getpass("Enter database password: ")
 

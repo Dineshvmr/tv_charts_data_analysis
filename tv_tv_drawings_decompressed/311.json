@@ -1,0 +1,1475 @@
+{
+  "currencyId": null,
+  "id": "W883pj",
+  "ownerSource": "_seriesId",
+  "state": {
+    "id": "W883pj",
+    "isSelectionEnabled": true,
+    "linkKey": "V3lGiDrdyUon",
+    "ownerSource": "_seriesId",
+    "points": [
+      {
+        "interval": "1D",
+        "offset": 21,
+        "price": 25602.9926945258,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 21,
+        "price": 25580.07661916121,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 22,
+        "price": 25544.065643588274,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 22,
+        "price": 25514.60211811951,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 23,
+        "price": 25465.496242338235,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 24,
+        "price": 25422.93781666113,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 26,
+        "price": 25350.915865515264,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 27,
+        "price": 25318.178614994416,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 27,
+        "price": 25272.346464265225,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 28,
+        "price": 25229.78803858812,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 28,
+        "price": 25206.87196322353,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 29,
+        "price": 25197.05078806727,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 29,
+        "price": 25190.503337963102,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 29,
+        "price": 25210.145688275617,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 29,
+        "price": 25246.156663848546,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 28,
+        "price": 25278.893914369397,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 28,
+        "price": 25305.083714786073,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 26,
+        "price": 25334.54724025484,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 25,
+        "price": 25354.18959056735,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 24,
+        "price": 25370.558215827772,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 23,
+        "price": 25393.474291192368,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 21,
+        "price": 25422.93781666113,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 19,
+        "price": 25445.853892025727,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 17,
+        "price": 25475.31741749449,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 16,
+        "price": 25494.959767807,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 14,
+        "price": 25514.60211811951,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 13,
+        "price": 25540.79191853619,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 12,
+        "price": 25553.88681874453,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 12,
+        "price": 25563.70799390078,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 12,
+        "price": 25570.255444004953,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 12,
+        "price": 25596.445244421633,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 12,
+        "price": 25609.540144629973,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 12,
+        "price": 25629.18249494248,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 12,
+        "price": 25642.27739515082,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 13,
+        "price": 25658.646020411245,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 13,
+        "price": 25671.740920619584,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 14,
+        "price": 25688.10954588001,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 15,
+        "price": 25701.204446088348,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 17,
+        "price": 25720.84679640086,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 19,
+        "price": 25753.584046921707,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 21,
+        "price": 25776.500122286303,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 24,
+        "price": 25802.68992270298,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 26,
+        "price": 25815.78482291132,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 29,
+        "price": 25832.153448171743,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 31,
+        "price": 25845.24834838009,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 33,
+        "price": 25851.795798484254,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 35,
+        "price": 25851.795798484254,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 38,
+        "price": 25841.974623328,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 40,
+        "price": 25825.605998067575,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 42,
+        "price": 25815.78482291132,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 44,
+        "price": 25805.963647755067,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 45,
+        "price": 25796.14247259881,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 46,
+        "price": 25783.04757239047,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 46,
+        "price": 25769.95267218213,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 47,
+        "price": 25743.76287176545,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 47,
+        "price": 25730.66797155711,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 47,
+        "price": 25707.75189619252,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 46,
+        "price": 25593.171519369545,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 46,
+        "price": 25557.160543796617,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 45,
+        "price": 25524.42329327576,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 44,
+        "price": 25501.50721791117,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 43,
+        "price": 25449.12761707781,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 41,
+        "price": 25416.390366556963,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 39,
+        "price": 25386.926841088196,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 37,
+        "price": 25357.463315619432,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 36,
+        "price": 25337.820965306924,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 33,
+        "price": 25298.536264681905,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 32,
+        "price": 25269.07273921314,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 31,
+        "price": 25242.88293879646,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 30,
+        "price": 25213.419413327694,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 28,
+        "price": 25177.40843775476,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 27,
+        "price": 25147.944912286,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 26,
+        "price": 25118.481386817235,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 25,
+        "price": 25095.56531145264,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 23,
+        "price": 25069.37551103596,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 22,
+        "price": 25039.911985567196,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 21,
+        "price": 25020.26963525469,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 21,
+        "price": 25007.17473504635,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 20,
+        "price": 24997.353559890093,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 20,
+        "price": 24984.258659681753,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 20,
+        "price": 24974.4374845255,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 19,
+        "price": 24967.89003442133,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 20,
+        "price": 24987.53238473384,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 20,
+        "price": 25000.62728494218,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 19,
+        "price": 25033.364535463028,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 19,
+        "price": 25059.554335879708,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 18,
+        "price": 25118.481386817235,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 18,
+        "price": 25147.944912286,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 17,
+        "price": 25164.313537546423,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 17,
+        "price": 25210.145688275617,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 16,
+        "price": 25233.06176364021,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 16,
+        "price": 25262.52528910897,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 16,
+        "price": 25278.893914369397,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 16,
+        "price": 25295.26253962982,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 18,
+        "price": 25298.536264681905,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 20,
+        "price": 25298.536264681905,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 22,
+        "price": 25298.536264681905,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 26,
+        "price": 25301.80998973399,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 28,
+        "price": 25301.80998973399,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 31,
+        "price": 25301.80998973399,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 34,
+        "price": 25295.26253962982,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 36,
+        "price": 25295.26253962982,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 41,
+        "price": 25288.71508952565,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 46,
+        "price": 25285.441364473565,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 47,
+        "price": 25285.441364473565,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 50,
+        "price": 25285.441364473565,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 53,
+        "price": 25291.988814577737,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 54,
+        "price": 25295.26253962982,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 55,
+        "price": 25295.26253962982,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 56,
+        "price": 25295.26253962982,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 58,
+        "price": 25298.536264681905,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 59,
+        "price": 25301.80998973399,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 60,
+        "price": 25305.083714786073,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 62,
+        "price": 25305.083714786073,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 63,
+        "price": 25305.083714786073,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 64,
+        "price": 25305.083714786073,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 64,
+        "price": 25288.71508952565,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 63,
+        "price": 25269.07273921314,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 63,
+        "price": 25233.06176364021,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 62,
+        "price": 25206.87196322353,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 61,
+        "price": 25164.313537546423,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 60,
+        "price": 25115.20766176515,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 59,
+        "price": 25062.82806093179,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 57,
+        "price": 25007.17473504635,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 55,
+        "price": 24954.79513421299,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 53,
+        "price": 24918.784158640057,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 52,
+        "price": 24892.594358223378,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 51,
+        "price": 24866.404557806694,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 50,
+        "price": 24833.667307285847,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 49,
+        "price": 24807.47750686917,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 48,
+        "price": 24781.28770645249,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 47,
+        "price": 24758.371631087895,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 46,
+        "price": 24722.36065551496,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 46,
+        "price": 24702.718305202452,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 45,
+        "price": 24669.981054681604,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 43,
+        "price": 24633.97007910867,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 41,
+        "price": 24571.769303119057,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 40,
+        "price": 24532.48460249404,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 38,
+        "price": 24486.652451764847,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 38,
+        "price": 24467.01010145234,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 37,
+        "price": 24440.82030103566,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 36,
+        "price": 24408.08305051481,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 35,
+        "price": 24388.4407002023,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 34,
+        "price": 24362.25089978562,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 34,
+        "price": 24345.882274525196,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 33,
+        "price": 24319.692474108517,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 32,
+        "price": 24303.323848848093,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 31,
+        "price": 24290.228948639753,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 31,
+        "price": 24280.407773483497,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 30,
+        "price": 24280.407773483497,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 29,
+        "price": 24296.776398743925,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 28,
+        "price": 24332.787374316857,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 27,
+        "price": 24381.893250098132,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 26,
+        "price": 24424.451675775235,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 26,
+        "price": 24470.283826504423,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 26,
+        "price": 24525.937152389863,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 26,
+        "price": 24568.49557806697,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 25,
+        "price": 24611.054003744073,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 25,
+        "price": 24640.51752921284,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 25,
+        "price": 24679.802229837856,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 25,
+        "price": 24692.897130046196,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 25,
+        "price": 24715.813205410792,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 25,
+        "price": 24742.00300582747,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 25,
+        "price": 24761.64535613998,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 26,
+        "price": 24794.38260666083,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 27,
+        "price": 24810.751231921255,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 28,
+        "price": 24836.941032337934,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 29,
+        "price": 24856.58338265044,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 31,
+        "price": 24882.77318306712,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 32,
+        "price": 24895.86808327546,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 34,
+        "price": 24908.9629834838,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 35,
+        "price": 24922.05788369214,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 37,
+        "price": 24935.15278390048,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 42,
+        "price": 24958.068859265073,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 45,
+        "price": 24967.89003442133,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 46,
+        "price": 24971.163759473413,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 49,
+        "price": 24977.711209577585,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 52,
+        "price": 24987.53238473384,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 54,
+        "price": 24990.806109785924,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 57,
+        "price": 25000.62728494218,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 60,
+        "price": 25016.995910202604,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 63,
+        "price": 25033.364535463028,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 65,
+        "price": 25049.733160723452,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 66,
+        "price": 25069.37551103596,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 69,
+        "price": 25092.291586400555,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 71,
+        "price": 25128.30256197349,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 75,
+        "price": 25183.955887858938,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 77,
+        "price": 25210.145688275617,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 78,
+        "price": 25239.609213744377,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 79,
+        "price": 25265.799014161057,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 80,
+        "price": 25291.988814577737,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 81,
+        "price": 25334.54724025484,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 82,
+        "price": 25360.73704067152,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 82,
+        "price": 25413.116641504876,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 82,
+        "price": 25455.67506718198,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 82,
+        "price": 25521.14956822368,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 81,
+        "price": 25557.160543796617,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 81,
+        "price": 25580.07661916121,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 80,
+        "price": 25609.540144629973,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 78,
+        "price": 25645.551120202905,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 77,
+        "price": 25661.91974546333,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 76,
+        "price": 25668.4671955675,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 75,
+        "price": 25675.01464567167,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 74,
+        "price": 25675.01464567167,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 71,
+        "price": 25668.4671955675,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 69,
+        "price": 25652.098570307076,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 66,
+        "price": 25632.456219994565,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 64,
+        "price": 25602.9926945258,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 63,
+        "price": 25583.350344213293,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 60,
+        "price": 25530.970743379938,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 59,
+        "price": 25491.686042754915,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 58,
+        "price": 25445.853892025727,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 57,
+        "price": 25400.021741296536,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 57,
+        "price": 25321.4523400465,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 57,
+        "price": 25278.893914369397,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 57,
+        "price": 25223.240588483954,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 57,
+        "price": 25167.58726259851,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 58,
+        "price": 25082.4704112443,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 58,
+        "price": 25043.185710619284,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 60,
+        "price": 24984.258659681753,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 60,
+        "price": 24925.331608744225,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 62,
+        "price": 24866.404557806694,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 63,
+        "price": 24784.561431504575,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 65,
+        "price": 24728.90810561913,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 65,
+        "price": 24692.897130046196,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 66,
+        "price": 24640.51752921284,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 67,
+        "price": 24561.9481279628,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 68,
+        "price": 24509.56852712944,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 68,
+        "price": 24450.641476191915,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 69,
+        "price": 24408.08305051481,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 69,
+        "price": 24355.703449681452,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 69,
+        "price": 24283.681498535585,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 69,
+        "price": 24241.12307285848,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 69,
+        "price": 24224.754447598058,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 69,
+        "price": 24211.65954738972,
+        "time_t": 1761536700
+      },
+      {
+        "interval": "1D",
+        "offset": 69,
+        "price": 24205.112097285542,
+        "time_t": 1761536700
+      }
+    ],
+    "state": {
+      "backgroundColor": "#00bcd4",
+      "currencyId": null,
+      "fillBackground": false,
+      "frozen": false,
+      "interval": "1D",
+      "intervalsVisibilities": {
+        "days": true,
+        "daysFrom": 1,
+        "daysTo": 366,
+        "hours": true,
+        "hoursFrom": 1,
+        "hoursTo": 24,
+        "minutes": true,
+        "minutesFrom": 1,
+        "minutesTo": 59,
+        "months": true,
+        "monthsFrom": 1,
+        "monthsTo": 12,
+        "ranges": true,
+        "seconds": true,
+        "secondsFrom": 1,
+        "secondsTo": 59,
+        "ticks": true,
+        "weeks": true,
+        "weeksFrom": 1,
+        "weeksTo": 52
+      },
+      "leftEnd": 0,
+      "linecolor": "#00bcd4",
+      "linewidth": 2,
+      "rightEnd": 0,
+      "smooth": 5,
+      "symbol": "NIFTY",
+      "symbolStateVersion": 2,
+      "title": "",
+      "transparency": 50,
+      "unitId": null,
+      "visible": true,
+      "zOrderVersion": 2
+    },
+    "type": "LineToolBrush",
+    "userEditEnabled": true,
+    "zorder": -79
+  },
+  "symbol": "NIFTY",
+  "unitId": null
+}

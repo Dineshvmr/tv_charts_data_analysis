@@ -1,0 +1,65 @@
+{
+  "currencyId": null,
+  "id": "1KBstC",
+  "ownerSource": "_seriesId",
+  "state": {
+    "id": "1KBstC",
+    "isSelectionEnabled": true,
+    "linkKey": "y3x3L1XBjGHx",
+    "ownerSource": "_seriesId",
+    "points": [
+      {
+        "interval": "1D",
+        "offset": 54,
+        "price": 58499.819597512,
+        "time_t": 1761536700
+      }
+    ],
+    "state": {
+      "backgroundColor": "#00bcd4",
+      "currencyId": null,
+      "fillBackground": false,
+      "frozen": false,
+      "interval": "1D",
+      "intervalsVisibilities": {
+        "days": true,
+        "daysFrom": 1,
+        "daysTo": 366,
+        "hours": true,
+        "hoursFrom": 1,
+        "hoursTo": 24,
+        "minutes": true,
+        "minutesFrom": 1,
+        "minutesTo": 59,
+        "months": true,
+        "monthsFrom": 1,
+        "monthsTo": 12,
+        "ranges": true,
+        "seconds": true,
+        "secondsFrom": 1,
+        "secondsTo": 59,
+        "ticks": true,
+        "weeks": true,
+        "weeksFrom": 1,
+        "weeksTo": 52
+      },
+      "leftEnd": 0,
+      "linecolor": "#00bcd4",
+      "linewidth": 2,
+      "rightEnd": 0,
+      "smooth": 5,
+      "symbol": "BANKNIFTY",
+      "symbolStateVersion": 2,
+      "title": "",
+      "transparency": 50,
+      "unitId": null,
+      "visible": true,
+      "zOrderVersion": 2
+    },
+    "type": "LineToolBrush",
+    "userEditEnabled": true,
+    "zorder": -157
+  },
+  "symbol": "BANKNIFTY",
+  "unitId": null
+}

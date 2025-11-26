@@ -1,0 +1,84 @@
+{
+  "currencyId": null,
+  "id": "ZyRrns",
+  "ownerSource": "_seriesId",
+  "state": {
+    "id": "ZyRrns",
+    "isSelectionEnabled": true,
+    "linkKey": "lPZV1APu4pQa",
+    "ownerSource": "_seriesId",
+    "points": [
+      {
+        "interval": "1D",
+        "offset": 0,
+        "price": 22812.10797880371,
+        "time_t": 1738295100
+      },
+      {
+        "interval": "1D",
+        "offset": 0,
+        "price": 23813.713250702014,
+        "time_t": 1741578300
+      }
+    ],
+    "state": {
+      "backgroundColor": "rgba(41, 98, 255, 0.15)",
+      "backgroundTransparency": 60,
+      "currencyId": null,
+      "customText": {
+        "bold": false,
+        "color": "#2962FF",
+        "fontsize": 12,
+        "italic": false,
+        "text": "",
+        "visible": false
+      },
+      "extendLeft": false,
+      "extendRight": false,
+      "fillBackground": true,
+      "fillLabelBackground": true,
+      "fontsize": 12,
+      "frozen": false,
+      "interval": "1D",
+      "intervalsVisibilities": {
+        "days": true,
+        "daysFrom": 1,
+        "daysTo": 366,
+        "hours": true,
+        "hoursFrom": 1,
+        "hoursTo": 24,
+        "minutes": true,
+        "minutesFrom": 1,
+        "minutesTo": 59,
+        "months": true,
+        "monthsFrom": 1,
+        "monthsTo": 12,
+        "ranges": true,
+        "seconds": true,
+        "secondsFrom": 1,
+        "secondsTo": 59,
+        "ticks": true,
+        "weeks": true,
+        "weeksFrom": 1,
+        "weeksTo": 52
+      },
+      "labelBackgroundColor": "#ffffff",
+      "linecolor": "#2962FF",
+      "linewidth": 2,
+      "shadow": "rgba(0, 0, 0, 0.2)",
+      "showVolume": true,
+      "symbol": "NIFTY",
+      "symbolStateVersion": 2,
+      "textcolor": "#000000",
+      "title": "",
+      "unitId": null,
+      "visible": true,
+      "zOrderVersion": 2
+    },
+    "type": "LineToolPriceRange",
+    "userEditEnabled": true,
+    "zorder": -5
+  },
+  "symbol": "NIFTY",
+  "unitId": null
+}

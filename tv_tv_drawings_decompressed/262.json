@@ -1,24 +1,24 @@
 {
   "currencyId": null,
-  "id": "vKawQp",
+  "id": "hN55qg",
   "ownerSource": "_seriesId",
   "state": {
-    "id": "vKawQp",
+    "id": "hN55qg",
     "isSelectionEnabled": true,
-    "linkKey": "hZHmvBnpWQ8U",
+    "linkKey": "QIgSFWbCf9NO",
     "ownerSource": "_seriesId",
     "points": [
       {
         "interval": "1D",
         "offset": 0,
-        "price": 23978.612035962877,
-        "time_t": 1756784700
+        "price": 26113.197235815496,
+        "time_t": 1761191100
       },
       {
         "interval": "1D",
-        "offset": 40,
-        "price": 25088.69251740139,
-        "time_t": 1759981500
+        "offset": 0,
+        "price": 24590.89560517112,
+        "time_t": 1759203900
       }
     ],
     "state": {
@@ -59,7 +59,7 @@
         0,
         "#808080",
         true,
-        ""
+        "test level 1 text"
       ],
       "level10": [
         3.618,
@@ -226,7 +226,7 @@
     "type": "LineToolFibRetracement",
     "userEditEnabled": true,
     "version": 2,
-    "zorder": -10157
+    "zorder": -3
   },
   "symbol": "NIFTY",
   "unitId": null

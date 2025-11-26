@@ -21,7 +21,7 @@ def deep_parse_json(obj):
 
 def decompress_table(db_path, table_name):
     conn = None
-    progress_file = "progress.json"
+    progress_file = "progress_staging.json"
     
     try:
         # Load progress
@@ -56,7 +56,6 @@ def decompress_table(db_path, table_name):
                 print(f"No more data to process in {table_name} table.")
                 break
             
-            batch_success = True
             for row in rows:
                 record_id = row[0]
                 content_blob = row[1]
@@ -71,8 +70,7 @@ def decompress_table(db_path, table_name):
                     print(f"Successfully decompressed {table_name} ID {record_id} with LZ4")
                 except Exception as e:
                     print(f"LZ4 decompress failed for {table_name} ID {record_id}: {e}")
-                    batch_success = False
-                    continue
+                    raise e
                 
                 if content_decompressed:
                     try:
@@ -89,25 +87,20 @@ def decompress_table(db_path, table_name):
                         
                     except (UnicodeDecodeError, json.JSONDecodeError) as e:
                         print(f"Could not decode/parse {table_name} ID {record_id}: {e}")
-                        batch_success = False
-                        continue
+                        raise e
             
             # Commit batch
-            if batch_success:
-                conn.commit()
-                last_processed = rows[-1][0]
-                # Update progress
-                progress[table_name] = last_processed
-                with open(progress_file, 'w') as f:
-                    json.dump(progress, f, indent=2)
-                print(f"Processed batch up to ID {last_processed} in {table_name}, progress saved.")
-            else:
-                print(f"Batch had errors, not committing for {table_name}")
-                conn.rollback()
-                break
+            conn.commit()
+            last_processed = rows[-1][0]
+            # Update progress
+            progress[table_name] = last_processed
+            with open(progress_file, 'w') as f:
+                json.dump(progress, f, indent=2)
+            print(f"Processed batch up to ID {last_processed} in {table_name}, progress saved.")
                 
     except sqlite3.Error as e:
         print(f"Database error for {table_name}: {e}")
+        raise e
     finally:
         if conn:
             conn.close()
@@ -119,13 +112,14 @@ def decompress_table(db_path, table_name):
                 print(f"Final progress saved for {table_name}")
             except Exception as e:
                 print(f"Could not save final progress for {table_name}: {e}")
+                raise e
 
 if __name__ == "__main__":
-    db_path = "/Users/dinesh/Documents/SQLite/SQlite"
+    db_path = "/Users/dinesh/Documents/SQLite/SQLite"
     
     # Process all three tables with LZ4
-    print("Processing tv_chart_layouts...")
-    decompress_table(db_path, 'tv_chart_layouts')
+    #print("Processing tv_chart_layouts...")
+    #decompress_table(db_path, 'tv_chart_layouts')
     
     print("Processing tv_drawings...")
     decompress_table(db_path, 'tv_drawings')

@@ -1,30 +1,30 @@
 {
   "currencyId": null,
-  "id": "1oJVIM",
+  "id": "agPyw3",
   "ownerSource": "_seriesId",
   "state": {
-    "id": "1oJVIM",
+    "id": "agPyw3",
     "isSelectionEnabled": true,
-    "linkKey": "SmU1uF4L6QFi",
+    "linkKey": "iqcsFAoXZT8F",
     "ownerSource": "_seriesId",
     "points": [
       {
         "interval": "1D",
         "offset": 0,
-        "price": 22790.256648781902,
-        "time_t": 1745466300
+        "price": 25119.385613998005,
+        "time_t": 1746416700
+      },
+      {
+        "interval": "1D",
+        "offset": 6,
+        "price": 26163.9121697515,
+        "time_t": 1761536700
       },
       {
         "interval": "1D",
         "offset": 0,
-        "price": 24298.827559454756,
-        "time_t": 1751600700
-      },
-      {
-        "interval": "1D",
-        "offset": 0,
-        "price": 24272.050145011603,
-        "time_t": 1745466300
+        "price": 23696.403501011504,
+        "time_t": 1746416700
       }
     ],
     "state": {
@@ -61,10 +61,10 @@
       "labelFontSize": 14,
       "labelHorzAlign": "left",
       "labelItalic": false,
-      "labelText": "",
+      "labelText": "test parallel channel",
       "labelTextColor": "#2962FF",
       "labelVertAlign": "bottom",
-      "labelVisible": false,
+      "labelVisible": true,
       "level1": {
         "coeff": -0.25,
         "color": "#2962ff",
@@ -74,7 +74,7 @@
       },
       "level2": {
         "coeff": 0,
-        "color": "#2962FF",
+        "color": "#2962ff",
         "lineStyle": 0,
         "lineWidth": 2,
         "visible": true
@@ -88,7 +88,7 @@
       },
       "level4": {
         "coeff": 0.5,
-        "color": "#2962FF",
+        "color": "#2962ff",
         "lineStyle": 2,
         "lineWidth": 1,
         "visible": true
@@ -102,7 +102,7 @@
       },
       "level6": {
         "coeff": 1,
-        "color": "#2962FF",
+        "color": "#2962ff",
         "lineStyle": 0,
         "lineWidth": 2,
         "visible": true
@@ -117,7 +117,7 @@
       "symbol": "NIFTY",
       "symbolStateVersion": 2,
       "title": "",
-      "transparency": 20,
+      "transparency": 80,
       "unitId": null,
       "version": 2,
       "visible": true,
@@ -126,7 +126,7 @@
     "type": "LineToolParallelChannel",
     "userEditEnabled": true,
     "version": 2,
-    "zorder": -10020
+    "zorder": -5000
   },
   "symbol": "NIFTY",
   "unitId": null

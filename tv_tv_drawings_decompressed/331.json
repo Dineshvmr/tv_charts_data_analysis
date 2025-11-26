@@ -1,25 +1,35 @@
 {
   "currencyId": null,
-  "id": "D4muV0",
+  "id": "lcRF4f",
   "ownerSource": "_seriesId",
   "state": {
-    "id": "D4muV0",
+    "id": "lcRF4f",
     "isSelectionEnabled": true,
-    "linkKey": "oxa6ijn42Exr",
+    "linkKey": "GfKWBnLnAWO6",
     "ownerSource": "_seriesId",
     "points": [
       {
         "interval": "1D",
         "offset": 0,
-        "price": 25053.113014791183,
-        "time_t": 1742960700
+        "price": 21976.449142486188,
+        "time_t": 1740973500
+      },
+      {
+        "interval": "1D",
+        "offset": 0,
+        "price": 23215.120750928472,
+        "time_t": 1745898300
       }
     ],
     "state": {
-      "angle": 1.5707963267948966,
+      "alwaysShowStats": true,
+      "bold": false,
       "currencyId": null,
-      "emoji": "\ud83d\ude00",
+      "extendLeft": false,
+      "extendRight": true,
+      "fontsize": 14,
       "frozen": false,
+      "horzLabelsAlign": "center",
       "interval": "1D",
       "intervalsVisibilities": {
         "days": true,
@@ -43,17 +53,36 @@
         "weeksFrom": 1,
         "weeksTo": 52
       },
-      "size": 40,
+      "italic": false,
+      "leftEnd": 0,
+      "linecolor": "#2962FF",
+      "linestyle": 0,
+      "linewidth": 2,
+      "rightEnd": 0,
+      "showAngle": true,
+      "showBarsRange": true,
+      "showDateTimeRange": true,
+      "showDistance": true,
+      "showLabel": false,
+      "showMiddlePoint": true,
+      "showPercentPriceRange": true,
+      "showPipsPriceRange": true,
+      "showPriceLabels": true,
+      "showPriceRange": true,
+      "statsPosition": 2,
       "symbol": "NIFTY",
       "symbolStateVersion": 2,
+      "text": "",
+      "textcolor": "#2962FF",
       "title": "",
       "unitId": null,
+      "vertLabelsAlign": "bottom",
       "visible": true,
       "zOrderVersion": 2
     },
-    "type": "LineToolEmoji",
+    "type": "LineToolRay",
     "userEditEnabled": true,
-    "zorder": -11250
+    "zorder": -3
   },
   "symbol": "NIFTY",
   "unitId": null

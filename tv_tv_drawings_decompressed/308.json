@@ -1,35 +1,25 @@
 {
   "currencyId": null,
-  "id": "I8eZYm",
+  "id": "v9GLUp",
   "ownerSource": "_seriesId",
   "state": {
-    "id": "I8eZYm",
+    "id": "v9GLUp",
     "isSelectionEnabled": true,
-    "linkKey": "FH9T3RaXZIAZ",
+    "linkKey": "H0goT5Lbkfl8",
     "ownerSource": "_seriesId",
     "points": [
       {
         "interval": "1D",
-        "offset": 0,
-        "price": 24725.78159077726,
-        "time_t": 1740714300
-      },
-      {
-        "interval": "1D",
-        "offset": 0,
-        "price": 25060.228915313222,
-        "time_t": 1744688700
+        "offset": 99,
+        "price": 54023.58254325312,
+        "time_t": 1761536700
       }
     ],
     "state": {
-      "alwaysShowStats": false,
-      "bold": false,
+      "backgroundColor": "#00bcd4",
       "currencyId": null,
-      "extendLeft": true,
-      "extendRight": true,
-      "fontsize": 14,
+      "fillBackground": false,
       "frozen": false,
-      "horzLabelsAlign": "center",
       "interval": "1D",
       "intervalsVisibilities": {
         "days": true,
@@ -53,37 +43,23 @@
         "weeksFrom": 1,
         "weeksTo": 52
       },
-      "italic": false,
       "leftEnd": 0,
-      "linecolor": "#2962FF",
-      "linestyle": 0,
+      "linecolor": "#00bcd4",
       "linewidth": 2,
       "rightEnd": 0,
-      "showAngle": false,
-      "showBarsRange": false,
-      "showDateTimeRange": false,
-      "showDistance": false,
-      "showLabel": false,
-      "showMiddlePoint": false,
-      "showPercentPriceRange": false,
-      "showPipsPriceRange": false,
-      "showPriceLabels": false,
-      "showPriceRange": false,
-      "statsPosition": 2,
-      "symbol": "NIFTY",
+      "smooth": 5,
+      "symbol": "BANKNIFTY",
       "symbolStateVersion": 2,
-      "text": "",
-      "textcolor": "#2962FF",
       "title": "",
+      "transparency": 50,
       "unitId": null,
-      "vertLabelsAlign": "bottom",
       "visible": true,
       "zOrderVersion": 2
     },
-    "type": "LineToolExtended",
+    "type": "LineToolBrush",
     "userEditEnabled": true,
-    "zorder": -10040
+    "zorder": -313
   },
-  "symbol": "NIFTY",
+  "symbol": "BANKNIFTY",
   "unitId": null
 }

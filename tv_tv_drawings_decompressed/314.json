@@ -1,0 +1,71 @@
+{
+  "currencyId": null,
+  "id": "aNSRG0",
+  "ownerSource": "_seriesId",
+  "state": {
+    "id": "aNSRG0",
+    "isSelectionEnabled": true,
+    "linkKey": "ILrF11xQdHXV",
+    "ownerSource": "_seriesId",
+    "points": [
+      {
+        "interval": "1D",
+        "offset": 108,
+        "price": 25930.365199734293,
+        "time_t": 1761536700
+      }
+    ],
+    "state": {
+      "anchored": false,
+      "backgroundColor": "rgba(91, 133, 191, 0.3)",
+      "backgroundTransparency": 70,
+      "bold": false,
+      "borderColor": "#667b8b",
+      "color": "#2962FF",
+      "currencyId": null,
+      "drawBorder": false,
+      "fillBackground": false,
+      "fixedSize": true,
+      "fontsize": 14,
+      "frozen": false,
+      "interval": "1D",
+      "intervalsVisibilities": {
+        "days": true,
+        "daysFrom": 1,
+        "daysTo": 366,
+        "hours": true,
+        "hoursFrom": 1,
+        "hoursTo": 24,
+        "minutes": true,
+        "minutesFrom": 1,
+        "minutesTo": 59,
+        "months": true,
+        "monthsFrom": 1,
+        "monthsTo": 12,
+        "ranges": true,
+        "seconds": true,
+        "secondsFrom": 1,
+        "secondsTo": 59,
+        "ticks": true,
+        "weeks": true,
+        "weeksFrom": 1,
+        "weeksTo": 52
+      },
+      "italic": false,
+      "symbol": "NIFTY",
+      "symbolStateVersion": 2,
+      "text": "Sample Text",
+      "title": "",
+      "unitId": null,
+      "visible": true,
+      "wordWrap": true,
+      "wordWrapWidth": 200,
+      "zOrderVersion": 2
+    },
+    "type": "LineToolText",
+    "userEditEnabled": true,
+    "zorder": -40
+  },
+  "symbol": "NIFTY",
+  "unitId": null
+}

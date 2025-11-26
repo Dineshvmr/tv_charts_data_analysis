@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>{{ORG_LEGAL_NAME}} – Research Analyst Investor Information</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Investor Charter, complaints status, and grievance details for {{ORG_LEGAL_NAME}} (SEBI Registered Research Analyst).">
+<style>
+:root { --bg:#ffffff; --text:#111; --muted:#333; --link:#0645ad; --focus:#ffbf47; --border:#c7c7c7; }
+html,body{margin:0;background:var(--bg);color:var(--text);font:16px/1.5 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Arial,sans-serif;}
+a{color:var(--link);}
+a:focus,button:focus,input:focus,select:focus,textarea:focus{outline:3px solid var(--focus);outline-offset:2px;}
+header,main,footer{max-width:920px;margin:auto;padding:1rem;}
+header{display:flex;align-items:center;gap:.75rem;}
+nav a{margin-right:1rem;}
+.skip-link{position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;}
+.skip-link:focus{position:static;width:auto;height:auto;background:#000;color:#fff;padding:.5rem;}
+h1,h2,h3{line-height:1.3}
+.card{border:1px solid var(--border);border-radius:8px;padding:1rem;margin:1rem 0;}
+table{border-collapse:collapse;width:100%;max-width:100%;}
+caption{font-weight:600;text-align:left;margin-bottom:.5rem;}
+th,td{border:1px solid var(--border);padding:.5rem;vertical-align:top;}
+th{background:#f6f6f6;}
+.nowrap{white-space:nowrap;}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0;}
+.note{color:var(--muted);}
+.footer-grid{display:grid;grid-template-columns:1fr;gap:1rem}
+@media (min-width:720px){ .footer-grid{grid-template-columns:1fr 1fr} }
+.top-link{display:inline-block;margin-top:1rem}
+</style>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to main content</a>
+
+<header role="banner">
+<div aria-hidden="true" style="font-weight:700;">{{BRAND_NAME}}</div>
+<nav aria-label="Primary">
+<a href="#charter">Investor Charter</a>
+<a href="#complaints">Investor Complaints</a>
+<a href="#grievance">Grievance</a>
+<a href="#accessibility">Accessibility</a>
+</nav>
+</header>
+
+<main id="main" role="main">
+<h1>Research Analyst – Investor Information</h1>
+
+<section aria-labelledby="status-heading" class="card">
+<h2 id="status-heading">Research availability</h2>
+<p id="status-message" role="status" aria-live="polite">No research report available at present.</p>
+</section>
+
+<section id="charter" aria-labelledby="charter-heading" class="card">
+<h2 id="charter-heading">Investor Charter – Research Analysts</h2>
+<p class="note">Host the full Investor Charter content here as HTML on your own domain. Do not rely only on third‑party pages. Update whenever SEBI revises the charter <source_id data="5" title="1748864324710%20(1).pdf" />.</p>
+<!-- BEGIN: Paste SEBI-prescribed Investor Charter text here (verbatim), formatted with headings and lists for accessibility. <source_id data="5" title="1748864324710%20(1).pdf" /> -->
+<p><strong>About this Charter:</strong> This Charter sets out the rights of investors and obligations of Research Analysts, grievance redressal mechanism, and timelines.</p>
+<h3>1. Roles and responsibilities of Research Analysts</h3>
+<ul>
+<li>Provide unbiased and diligent research, with adequate disclosures.</li>
+<li>Avoid conflict of interest; maintain records as required.</li>
+</ul>
+<h3>2. What investors can expect</h3>
+<ul>
+<li>Transparent disclosures, risk statements, and clear communication.</li>
+<li>Accessible grievance channels and time‑bound resolution.</li>
+</ul>
+<h3>3. Grievance redressal</h3>
+<p>Contact us first using the details in the Grievance section below. If unresolved, lodge a complaint on SCORES 2.0.</p>
+<!-- END Charter stub. Replace with full official text. -->
+<p>Last updated: <time datetime="{{CHARTER_ISO_DATE}}">{{CHARTER_HUMAN_DATE}}</time></p>
+</section>
+
+<section id="complaints" aria-labelledby="complaints-heading" class="card">
+<h2 id="complaints-heading">Investor Complaints – Status</h2>
+<p>Data for the month ending: <strong>{{MONTH_ENDING}}</strong>. Updated on: <time datetime="{{COMPLAINTS_UPDATE_ISO}}">{{COMPLAINTS_UPDATE_HUMAN}}</time>. Publish by the 7th of the succeeding month in the format below <source_id data="5" title="1748864324710%20(1).pdf" />.</p>
+
+<div role="region" aria-labelledby="table-caption">
+<table>
+<caption id="table-caption">Complaints received and resolved – {{ORG_LEGAL_NAME}}</caption>
+<thead>
+<tr>
+<th scope="col" class="nowrap">Sr. No.</th>
+<th scope="col">Received from</th>
+<th scope="col">Pending at end of last month</th>
+<th scope="col">Received</th>
+<th scope="col">Resolved<span class="sr-only">*</span></th>
+<th scope="col">Total Pending<span class="sr-only">#</span></th>
+<th scope="col">Pending &gt; 3 months</th>
+<th scope="col">Average resolution time (days)<span class="sr-only">^</span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">1</th>
+<td>Directly from investors</td>
+<td>{{C01}}</td>
+<td>{{C02}}</td>
+<td>{{C03}}</td>
+<td>{{C04}}</td>
+<td>{{C05}}</td>
+<td>{{C06}}</td>
+</tr>
+<tr>
+<th scope="row">2</th>
+<td>SEBI (SCORES)</td>
+<td>{{C11}}</td>
+<td>{{C12}}</td>
+<td>{{C13}}</td>
+<td>{{C14}}</td>
+<td>{{C15}}</td>
+<td>{{C16}}</td>
+</tr>
+<tr>
+<th scope="row">3</th>
+<td>Other sources (if any)</td>
+<td>{{C21}}</td>
+<td>{{C22}}</td>
+<td>{{C23}}</td>
+<td>{{C24}}</td>
+<td>{{C25}}</td>
+<td>{{C26}}</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<th scope="row" colspan="2">Grand Total</th>
+<td>{{GT1}}</td>
+<td>{{GT2}}</td>
+<td>{{GT3}}</td>
+<td>{{GT4}}</td>
+<td>{{GT5}}</td>
+<td>{{GT6}}</td>
+</tr>
+</tfoot>
+</table>
+</div>
+
+<p>Number of complaints received during month due to impersonation of the RA by another entity: <strong>{{IMPERSONATION_COUNT}}</strong></p>
+<p class="note">Note: As per SEBI format, impersonation-related complaints may be adjusted from received/resolved counts while preparing the table; such complaints must be closed following SEBI/RAASB process <source_id data="5" title="1748864324710%20(1).pdf" />.</p>
+<a class="top-link" href="#top">Back to top</a>
+</section>
+
+<section id="grievance" aria-labelledby="grievance-heading" class="card">
+<h2 id="grievance-heading">Grievance redressal</h2>
+<p>If you have any grievance, please contact us. If not resolved, lodge a complaint on SCORES 2.0.</p>
+<ul>
+<li>Email: <a href="mailto:{{GRIEVANCE_EMAIL}}">{{GRIEVANCE_EMAIL}}</a></li>
+<li>Phone: <a href="tel:{{GRIEVANCE_PHONE}}">{{GRIEVANCE_PHONE_READABLE}}</a></li>
+<li>SCORES 2.0: <a href="https://scores.sebi.gov.in" rel="noopener">https://scores.sebi.gov.in</a></li>
+</ul>
+<p class="note">RA Details: {{ORG_LEGAL_NAME}} • SEBI RA Reg. No.: {{SEBI_RA_REG_NO}} • Registered Address: {{REGISTERED_ADDRESS}}</p>
+</section>
+
+<section id="accessibility" aria-labelledby="a11y-heading" class="card">
+<h2 id="a11y-heading">Accessibility Statement</h2>
+<p>We aim to comply with WCAG 2.1 Level AA and applicable Indian requirements (GIGW and the Rights of Persons with Disabilities Act, 2016 and rules thereunder). Annual accessibility audits are conducted by IAAP‑certified professionals, including usability testing by persons with disabilities; remediation is implemented based on findings <source_id data="1" title="1754651443956.pdf" />. Public documents are provided in accessible formats <source_id data="3" title="202310161053958942.pdf" />. For IAs/RAs, compliance filings are made with BSE Ltd per SEBI directions <source_id data="2" title="1756462899734.pdf" />.</p>
+<h3>Accessibility feedback</h3>
+<p>If you face any accessibility barrier on this site, write to <a href="mailto:{{A11Y_EMAIL}}">{{A11Y_EMAIL}}</a> or call <a href="tel:{{A11Y_PHONE}}">{{A11Y_PHONE_READABLE}}</a>. We aim to acknowledge within 2 business days and resolve within 15 business days.</p>
+<h3>Nodal Officer for Digital Accessibility</h3>
+<p>Name: {{NODAL_NAME}} • Email: <a href="mailto:{{NODAL_EMAIL}}">{{NODAL_EMAIL}}</a> • Phone: <a href="tel:{{NODAL_PHONE}}">{{NODAL_PHONE_READABLE}}</a></p>
+<a class="top-link" href="#top">Back to top</a>
+</section> </main>
+
+<footer role="contentinfo">
+<div class="footer-grid">
+<div>
+<strong>{{ORG_LEGAL_NAME}}</strong><br>
+SEBI Registered Research Analyst (RA) • Reg. No.: {{SEBI_RA_REG_NO}}<br>
+Registered Address: {{REGISTERED_ADDRESS}}<br>
+Contact: <a href="mailto:{{GENERIC_EMAIL}}">{{GENERIC_EMAIL}}</a> • <a href="tel:{{GENERIC_PHONE}}">{{GENERIC_PHONE_READABLE}}</a>
+</div>
+<div>
+<p>Last updated: <time datetime="{{LAST_UPDATED_ISO}}">{{LAST_UPDATED_HUMAN}}</time></p>
+<p class="note">This page currently hosts statutory investor information. No research report is being published at present.</p>
+</div>
+</div>
+</footer>
+</body>
+</html>
