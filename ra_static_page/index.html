@@ -35,6 +35,18 @@
       .ra-details h2 { 
         text-align: left; 
       }
+      .table-scroll {
+        overflow-x: auto;
+      }
+      .qr-img {
+        max-width: 450px;
+        height: auto;
+      }
+      @media (max-width: 480px) {
+        .qr-img {
+          max-width: 100%;
+        }
+      }
     </style>
   </head>
   <body>
@@ -63,7 +75,7 @@
 
       <section id="charter" aria-labelledby="charter-heading" class="card">
         <h2 id="charter-heading">Investor Charter</h2>
-        <p>Please refer to our <a href="https://sensibull.notion.site/Sensibull-Investor-Charter-ecc0eb446d8b4bff9eb4d9b28fe27140" target="_blank" rel="noopener">Investor Charter</a> for full details on our services, rights, and responsibilities as a Research Analyst.</p>
+        <p>Please refer to our <a href="investor_charter.html" rel="noopener">Investor Charter</a> for full details on our services, rights, and responsibilities as a Research Analyst.</p>
       </section>
 
       <section id="complaints" aria-labelledby="complaints-heading" class="card">
@@ -71,7 +83,7 @@
         <p>Data for the month ending: <strong><span id="month-end"></span></strong></p>
 
         <h3 id="table-caption">Complaints received and resolved</h3>
-        <div role="region" aria-labelledby="table-caption">
+        <div role="region" class="table-scroll" aria-labelledby="table-caption">
           <table>
             <thead>
               <tr>
@@ -134,7 +146,7 @@
         <p>^ Average Resolution time is the sum total of time taken to resolve each complaint, in days, in the current month divided by total number of complaints resolved in the current month.</p>
 
         <h3>Trend of monthly disposal of complaints</h3>
-        <div role="region" aria-labelledby="monthly-caption">
+        <div role="region" class="table-scroll" aria-labelledby="monthly-caption">
           <table id="monthly-table">
             <caption id="monthly-caption">Trend of monthly disposal of complaints</caption>
             <thead>
@@ -155,7 +167,7 @@
         <p>#Inclusive of complaints pending as on the last day of the month.</p>
 
         <h3>Trend of Annual Disposal of Complaints</h3>
-        <div role="region" aria-labelledby="annual-caption">
+        <div role="region" class="table-scroll" aria-labelledby="annual-caption">
           <table id="annual-table">
             <caption id="annual-caption">Trend of Annual Disposal of Complaints</caption>
             <thead>
@@ -189,7 +201,7 @@
 
       <section id="payment" aria-labelledby="payment-heading" class="card">
         <h2 id="payment-heading">Payment Details</h2>
-        <img src="riskilla_qr_code.png" alt="QR Code for Research Analyst services" style="width:450px;height:300px;">
+        <img src="riskilla_qr_code.png" alt="QR Code for Research Analyst services" class="qr-img">
         <p>UPI ID: riskilla.ra@validicici</p>
         <p class="note"><strong>This QR code and UPI ID is only for paying for Research Analyst services, and not for Sensibull Option Trading Platform. Riskilla does not give any paid research services yet.</strong></p>
       </section>
@@ -202,7 +214,7 @@
           Reg. No.: INH200006895
         </div>
         <div>
-          Last updated: <time datetime="2025-11-26">November 26, 2025</time> <br>
+          Last updated: <time datetime="2025-12-09">December 09, 2025</time> <br>
           This page currently hosts statutory investor information. No research report is being published at present.
         </div>
       </div>
@@ -256,3 +268,4 @@
       });
     </script>
   </body>
+</html>
